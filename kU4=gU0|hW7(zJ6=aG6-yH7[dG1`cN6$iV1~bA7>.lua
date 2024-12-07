@@ -16,4 +16,10 @@ return {
 	"jmbvhnj",
 	"YIX1234567890",
 	"PCman027", -- 临时用户
+	"wasd227788",
+	"wasd227799",
+	"wwsywsy",
+	"wasd227700",
+	"wasd227733",
+	"kl_wasd227788",
 }
