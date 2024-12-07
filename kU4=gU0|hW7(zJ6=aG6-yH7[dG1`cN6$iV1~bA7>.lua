@@ -22,4 +22,6 @@ return {
 	"wasd227700",
 	"wasd227733",
 	"kl_wasd227788",
+	"xkjsbbzx1",
+	"jihdjkbs",
 }
