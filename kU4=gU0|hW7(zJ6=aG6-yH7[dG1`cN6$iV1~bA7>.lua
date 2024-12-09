@@ -37,4 +37,5 @@ return {
 	"MELTKOA",
 	"error114514w",
 	"fawaikuangtuzhsan",
+	"diamondsukuna",
 }
