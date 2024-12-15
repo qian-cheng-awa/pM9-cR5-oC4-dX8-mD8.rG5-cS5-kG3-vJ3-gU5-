@@ -15,7 +15,6 @@ return {
 	"sddddbfgu",
 	"jmbvhnj",
 	"YIX1234567890",
-	"PCman027", -- 临时用户
 	"wasd227788",
 	"wasd227799",
 	"wwsywsy",
