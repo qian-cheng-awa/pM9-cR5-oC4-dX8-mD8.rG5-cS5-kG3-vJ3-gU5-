@@ -47,5 +47,4 @@ return {
 	"djwkodsksw",
 	"TODHLOJ",
 	"xiaoheiqqww",
-	"Qaseekaq", --试用
 }
