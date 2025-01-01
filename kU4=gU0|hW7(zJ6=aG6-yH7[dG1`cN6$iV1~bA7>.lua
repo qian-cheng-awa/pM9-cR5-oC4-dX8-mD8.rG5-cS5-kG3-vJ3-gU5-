@@ -8,7 +8,6 @@ return {
 	"muchuanmei",
 	"xiasans",
 	"RCzxtl",
-	"CN_FILQ", -- 临时用户
 	"599163huang",
 	"114514didke",
 	"114514ikunnm",
@@ -50,4 +49,5 @@ return {
 	"baixun160",
 	"baixun161",
 	"ZJW9902",
+	"PPinyourp",
 }
