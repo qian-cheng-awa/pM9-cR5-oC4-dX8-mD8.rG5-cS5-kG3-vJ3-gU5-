@@ -50,4 +50,6 @@ return {
 	"baixun161",
 	"ZJW9902",
 	"PPinyourp",
+	"baixun1145",
+	"baixun168",
 }
