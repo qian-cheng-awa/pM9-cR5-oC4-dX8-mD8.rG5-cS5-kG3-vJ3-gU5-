@@ -52,4 +52,8 @@ return {
 	"PPinyourp",
 	"baixun1145",
 	"baixun168",
+	"SDHAHA9",
+	"MEMEDASABI",
+	"MEMEFEIWU",
+	"SDRNG8",
 }
