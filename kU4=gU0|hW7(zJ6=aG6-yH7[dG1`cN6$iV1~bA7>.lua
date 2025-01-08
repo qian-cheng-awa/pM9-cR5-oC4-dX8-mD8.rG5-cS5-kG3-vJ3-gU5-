@@ -56,4 +56,5 @@ return {
 	"MEMEDASABI",
 	"MEMEFEIWU",
 	"SDRNG8",
+	"jiweiwudi",
 }
