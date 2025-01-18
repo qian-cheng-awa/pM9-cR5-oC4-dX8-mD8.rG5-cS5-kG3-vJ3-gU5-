@@ -57,4 +57,6 @@ return {
 	"MEMEFEIWU",
 	"SDRNG8",
 	"jiweiwudi",
+	"CN_FANGZUN",
+	"WTMJSGSB5",
 }
