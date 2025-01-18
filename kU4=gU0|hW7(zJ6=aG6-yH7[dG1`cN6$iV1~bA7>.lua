@@ -59,4 +59,5 @@ return {
 	"jiweiwudi",
 	"CN_FANGZUN",
 	"WTMJSGSB5",
+	"kucun012",
 }
