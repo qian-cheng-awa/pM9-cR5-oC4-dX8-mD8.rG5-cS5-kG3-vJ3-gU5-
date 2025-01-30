@@ -60,4 +60,5 @@ return {
 	"CN_FANGZUN",
 	"WTMJSGSB5",
 	"kucun012",
+	"sansssss_s26",
 }
