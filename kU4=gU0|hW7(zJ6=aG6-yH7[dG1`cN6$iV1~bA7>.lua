@@ -40,7 +40,6 @@ return {
 	"ARESDDWA2",
 	"memejsdsb",
 	"WSJXTlove",
-	"abc78767307",
 	"tianxingxiaoxing",
 	"djwkodsksw",
 	"TODHLOJ",
