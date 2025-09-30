@@ -1,5 +1,6 @@
 local a = {
 	"{}|^jkVb|:V",
+	"56g}|sd7n}nm",
 	"qw90erklopq[]",
 	"LPAT0qqVc_$%=xc",
 	"90klpnmS%^s$%",
