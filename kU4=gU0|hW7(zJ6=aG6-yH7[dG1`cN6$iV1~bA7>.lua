@@ -69,7 +69,6 @@ local a = {
 	"XCzxtybn!@$y",
 	"O)FGBNcv?~qYU~&*X",
 	"9_+G+:/900qUIT",
-	"u<>>hGH[K",
 	"JbndfrtsdA{}P",
 	"8L0];,bn|:",
 	";'GHP;%^#-=rt-*(T",
