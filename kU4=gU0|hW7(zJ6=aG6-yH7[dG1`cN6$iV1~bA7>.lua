@@ -55,7 +55,7 @@ local a = {
 	"lz|:d5RVxc[]|:",
 	"FGmiQopsdxc",
 	"QW,.zxJK{erBNio{",
-	"c/!kXd9",
+	"NOPa[=a0q$%&",
 	"45vbCV{}TYUI#NMu",
 	"[]Y)_SDpHio",
 	"bKLq`5uRT",
