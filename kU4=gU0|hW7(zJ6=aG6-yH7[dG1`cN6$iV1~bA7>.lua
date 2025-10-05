@@ -52,7 +52,7 @@ local a = {
 	"YUuiaiIPALZrtZ",
 	"bbfg>?mQ",
 	"g,CVui=M[V",
-	"~QW];^T~`145",
+	"$%gx,y)_[23",
 	"gBNYUAJKauqc()",
 	"lz|:d5RVxc[]|:",
 	"FGmiQopsdxc",
