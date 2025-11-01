@@ -4,6 +4,7 @@ local a = {
 	"ID6z0}",
 	"56g}|sd7n}nm",
 	"qw90erklopq[]",
+	"BNYU0V|:O",
 	"LPAT0qqVc_$%=xc",
 	"90klpnmS%^s$%",
 	"_+{_+[]rtz[34|:+--",
