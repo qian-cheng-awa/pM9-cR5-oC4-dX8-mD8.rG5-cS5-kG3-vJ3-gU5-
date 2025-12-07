@@ -1,7 +1,6 @@
 local a = {
 	"{}|^jkVb|:V",
 	"ER1B0qMN{",
-	"ID6z0}",
 	"7alz@#;'ASAWE",
 	"eLKzSD-aui!@78gh",
 	"56g}|sd7n}nm",
